@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Lambda Labs Journal`,
+    title: `Henry Moland's Lambda Labs Journal`,
     description: `Journal for the Lambda Labs capstone project "Pay Me"`,
   },
   plugins: [
